@@ -3,6 +3,14 @@ A simple Q&A app built using a pre-trained LLM (via HuggingFace) that answers qu
 
 This area in Natural Language Processing (NLP) is useful for finance professionals (and professionals in other fields) in producing user-friendly content for other users like reports.
 
+Before a file is loaded, the application looks like this in the browser window:
+![Screenshot of the question answer application in the browser window](example_images/question-answer-app.png)
+
+
+When a file has been uploaded and a question has been asked, this is what the response looks like in the application:
+![Screenshot of the question answer application in action - a question has been asked and a response has been returned](example_images/question-answer-app-in-action.png)
+
+
 ## Project Structure
 Aside from the requirements.txt file which details the required packages for the environment, the application resides in the notebook.ipynb file.
 
