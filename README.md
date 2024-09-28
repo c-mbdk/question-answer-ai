@@ -21,6 +21,7 @@ $ virtualenv env
 ```
 
 3. Then run the command to activate the virtual environment:
+
 Windows
 ```
 $ .\env\Scripts\activate
@@ -31,10 +32,10 @@ MacOS/Unix
 $ source env/bin/activate
 ```
 
-4. Install the dependencies:
+1. Install the dependencies:
 ```
 $ (venv) pip install -r requirements.txt
 ```
 
-5. Open up the Jupyter notebook (notebook.ipynb) and run each cell.
-6. Navigate to http://127.0.0.1:7860 in a browswer window to use the application outside of the Jupyter notebook.
+1. Open up the Jupyter notebook (notebook.ipynb) and run each cell.
+2. Navigate to http://127.0.0.1:7860 in a browser window to use the application outside of the Jupyter notebook.
